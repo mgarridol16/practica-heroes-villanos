@@ -1,1 +1,1 @@
-logging == latest
+logging == 0.4.9.6
